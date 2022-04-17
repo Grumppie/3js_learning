@@ -11,7 +11,7 @@ const mesh = new THREE.Mesh(geometry, material)
 
 // Position object
 
-// mesh.position.x = 0.7
+// sdsd mesh.position.x = 0.7
 // mesh.position.y = -0.6
 // mesh.position.z = 1
 
@@ -19,7 +19,7 @@ mesh.position.set(0.7, -0.6, 1)
 
 // Scale object
 
-// mesh.scale.x = 2
+// fsfs mesh.scale.x = 2
 // mesh.scale.y = 0.4
 
 mesh.scale.set(2, 0.5, 0.5)
